@@ -23,7 +23,10 @@ const Info = styled.div`
     justify-content: center;
 `
 const Title = styled.h1`
-    color: white;
+    color: #fff;
+    background-color: #000;
+    padding: 10px;
+    opacity: 0.9;
     margin-bottom: 20px;
 `
 const Button = styled.button`
@@ -31,7 +34,7 @@ const Button = styled.button`
     padding: 10px;
     background-color: white;
     color: gray;
-    cursosr: pointer;
+    cursor: pointer;
     font-weight: 600;
 `
 
